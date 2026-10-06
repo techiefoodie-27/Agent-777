@@ -48,3 +48,9 @@ Agent-777/
 ├── pyproject.toml
 ├── README.md
 └── LICENSE
+
+Goal
+
+The goal of Agent 777 is to build a practical cybersecurity platform where different security services can work together instead of having everything in one application.
+
+This project is still under development.
